@@ -1,0 +1,9 @@
+C:\hcastillo\projects\cucumber\code\01_tmp\CucumberFramework\src\test\java\CucumberFramework\RanorexStudio\Crucumber_StackOverflow\Crucumber_StackOverflow\bin\Debug\Crucumber_StackOverflow.rxtmg
+C:\hcastillo\projects\cucumber\code\01_tmp\CucumberFramework\src\test\java\CucumberFramework\RanorexStudio\Crucumber_StackOverflow\Crucumber_StackOverflow\bin\Debug\Crucumber_StackOverflow.rxtst
+C:\hcastillo\projects\cucumber\code\01_tmp\CucumberFramework\src\test\java\CucumberFramework\RanorexStudio\Crucumber_StackOverflow\Crucumber_StackOverflow\bin\Debug\Crucumber_StackOverflow.exe.config
+C:\hcastillo\projects\cucumber\code\01_tmp\CucumberFramework\src\test\java\CucumberFramework\RanorexStudio\Crucumber_StackOverflow\Crucumber_StackOverflow\bin\Debug\Crucumber_StackOverflow.exe
+C:\hcastillo\projects\cucumber\code\01_tmp\CucumberFramework\src\test\java\CucumberFramework\RanorexStudio\Crucumber_StackOverflow\Crucumber_StackOverflow\bin\Debug\Crucumber_StackOverflow.pdb
+C:\hcastillo\projects\cucumber\code\01_tmp\CucumberFramework\src\test\java\CucumberFramework\RanorexStudio\Crucumber_StackOverflow\Crucumber_StackOverflow\bin\Debug\Ranorex.Core.Resolver.dll
+C:\hcastillo\projects\cucumber\code\01_tmp\CucumberFramework\src\test\java\CucumberFramework\RanorexStudio\Crucumber_StackOverflow\Crucumber_StackOverflow\obj\x86\Debug\Crucumber_StackOverflow.csprojResolveAssemblyReference.cache
+C:\hcastillo\projects\cucumber\code\01_tmp\CucumberFramework\src\test\java\CucumberFramework\RanorexStudio\Crucumber_StackOverflow\Crucumber_StackOverflow\obj\x86\Debug\Crucumber_StackOverflow.exe
+C:\hcastillo\projects\cucumber\code\01_tmp\CucumberFramework\src\test\java\CucumberFramework\RanorexStudio\Crucumber_StackOverflow\Crucumber_StackOverflow\obj\x86\Debug\Crucumber_StackOverflow.pdb
